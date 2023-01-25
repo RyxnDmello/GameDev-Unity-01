@@ -1,0 +1,65 @@
+# Folders & Files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity3D Meta Files Ignored
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D Crash Reports Ignored
+sysinfo.txt
+
+# Visual Studio / Other Files Ignored
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Visual Studio Cache Ignored
+.vs/
+
+# Jetbrains Rider Plugin Ignored
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# MemoryCaptures Ignored
+/[Mm]emoryCaptures/
+
+# Recordings Ignored
+/[Rr]ecordings/
+
+# Crashlytics Files Ignored
+crashlytics-build.properties
+
+# Packed Addressables Ignored
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Temporary Android Assets Ignored
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Gradle Cache Ignored
+.gradle/
+
+# Builds Ignored
+*.apk
+*.aab
+*.unitypackage
+*.app
